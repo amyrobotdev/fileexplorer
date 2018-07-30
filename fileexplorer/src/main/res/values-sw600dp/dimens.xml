@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_18">34.2dp</dimen>
+    <dimen name="size_16">30.4dp</dimen>
+    <dimen name="size_14">26.6dp</dimen>
+    <dimen name="size_12">22.8dp</dimen>
+    <dimen name="size_10">19dp</dimen>
+
+    <dimen name="image_width">60dp</dimen>
+
+    <dimen name="text_16_sp">20sp</dimen>
+    <dimen name="tab_height">60dp</dimen>
+
+
+</resources>

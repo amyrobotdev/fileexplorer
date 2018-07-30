@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgoud2">#f1f1f1</color>
+    <color name="backgoud3">#f9f9f9</color>
+
+    <color name="ripple_color">@color/backgoud2</color>
+    <color name="ripple_color_mark">@color/backgoud3</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="color_press">#D1D1D1</color>
+
+
+
+</resources>
